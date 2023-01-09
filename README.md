@@ -1,3 +1,7 @@
+# Presentation
+
+You can watch [this presentation](https://drive.google.com/drive/folders/1igF_pYui7UvKWL5HHbYknBajmY2C-gf-?usp=share_link) in which I explained different parts and challenges of this project.
+
 # Project Description
 
 After preprocessing the X-ray images, a VGG16 model was utilized to classify the Covid-19 images
